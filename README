@@ -1,0 +1,29 @@
+Stack Machine
+=============
+
+A simple stack based microprocessor for a school project.
+
+Contents
+--------
+
+Verilog Source Files
+* ALU.v
+* buffer.v
+* control.v
+* core.v
+* data_path.v
+* mux2_1.v
+* mux4_2.v
+* stack.v
+
+Verilog Test Benches
+* ALU_tb.v
+* fib_tb.v
+* stack_tb.v
+
+Instruction Set details
+* instructions.rft
+
+Modelsim screenshots
+*fibonacci_sim.jpg
+*stack_tb.jpg
